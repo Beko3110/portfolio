@@ -361,6 +361,41 @@
 					}
 
 			});
+// Handle contact form submission
+			$('#contact form').on('submit', function(event) {
+				event.preventDefault(); // Prevent default form submission
+
+				// Get form data
+				const formData = new FormData(event.target);
+				const formProps = Object.fromEntries(formData);
+
+				// Send form data to Formspree
+				fetch(event.target.action, {
+					method: 'POST',
+					headers: {
+						'Accept': 'application/json',
+						'Content-Type': 'application/x-www-form-urlencoded'
+					},
+					body: new URLSearchParams(formProps).toString()
+				})
+				.then(response => {
+					if (!response.ok) {
+						throw new Error('Formspree submission failed');
+					}
+					return response.json();
+				})
+				.then(data => {
+					// Show success message or handle success
+					alert('Message sent successfully!');
+					event.target.reset(); // Reset the form
+				})
+				.catch(error => {
+					// Show error message or handle error
+					alert('Error sending message. Please try again later.');
+					console.error(error);
+				});
+			});
+
 
 		// Scroll restoration.
 		// This prevents the page from scrolling back to the top on a hashchange.
