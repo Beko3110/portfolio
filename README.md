@@ -1,6 +1,8 @@
-**Mohamed MustafaDevOps Engineer | Django Developer | Data Scientist**
+**Mohamed Mustafa**
+**DevOps Engineer | Django Developer | Data Scientist**
 
-Email: mohamed.el.sdiek@gmail.com | Phone: +20 10 2379 8567 | Nationality: Egyptian[linkedin.com/in/mohamed-solaiman](https://www.linkedin.com/in/mohamed-mustafa-b0616a233/) | [github.com/Beko3110](https://github.com/Beko3110) | [Portfolio: beko3110.github.io](https://beko3110.github.io/portfolio/)
+Email: mohamed.el.sdiek@gmail.com | Phone: +20 10 2379 8567 | Nationality: Egyptian
+[linkedin.com/in/mohamed-solaiman](https://www.linkedin.com/in/mohamed-mustafa-b0616a233/) | [github.com/Beko3110](https://github.com/Beko3110) | [Portfolio: beko3110.github.io](https://beko3110.github.io/portfolio/)
 
 **Professional Summary**
 
