@@ -1,78 +1,110 @@
-# portfolio
+**Mohamed MustafaDevOps Engineer | Django Developer | Data Scientist**
 
-**Mohamed Mustafa**
+Email: mohamed.el.sdiek@gmail.com | Phone: +20 10 2379 8567 | Nationality: Egyptian[linkedin.com/in/mohamed-solaiman](https://www.linkedin.com/in/mohamed-mustafa-b0616a233/) | [github.com/Beko3110](https://github.com/Beko3110) | [Portfolio: beko3110.github.io](https://beko3110.github.io/portfolio/)
 
-**DevOps and Cloud Engineer From Egypt**
+**Professional Summary**
 
-[mohamed.el.sdiek@gmail.com](mailto:mohamed.mustafa.soliman.31@gmail.com) | +20 10 2379 8567 | [linkedin/mohamed](https://www.linkedin.com/in/mohamed-solaiman-b0616a233/) | [GitHub](https://github.com/Beko3110) | [Portfolio](https://beko3110.github.io/portfolio/)
+Highly motivated and versatile IT professional with expertise in DevOps, Django development, and data science. Proven ability to automate infrastructure, build robust deployment pipelines, and leverage data insights to drive business growth. A strong advocate for collaboration, I have a successful track record of delivering reliable and scalable solutions across diverse technical domains. Passionate about utilizing cloud technologies to achieve innovation and cost optimization.
 
-**SUMMARY**
+**Technical Skills**
 
-Highly motivated and results-oriented DevOps Engineer with a proven ability to automate infrastructure and streamline software delivery processes. Possesses a strong foundation in cloud platforms, CI/CD pipelines, containerization, and configuration management. Eager to leverage technical expertise and digital marketing background to contribute to a dynamic DevOps environment.
+*   Python
+    
+*   Django
+    
+*   Database Systems (SQL)
+    
+*   RESTful APIs
+    
+*   HTML, CSS, JavaScript
+    
+*   Git
+    
+*   Unit Testing
+    
+*   Problem-Solving
+    
+*   Communication
+    
+*   Asynchronous Programming
+    
+*   Data Science
+    
+*   DevOps
+    
+*   Cloud Technologies (AWS, GCP)
+    
+*   CI/CD & Automation (Jenkins, GitLab CI/CD, ArgoCD, Webhooks, APIs)
+    
+*   Containerization & Orchestration (Docker, Kubernetes, EKS)
+    
+*   Configuration Management (Terraform, Ansible)
+    
+*   Monitoring & Logging (Prometheus, Grafana)
+    
+*   Scripting Languages (Python, JavaScript, Bash)
+    
+*   Networking (DNS, Load Balancing, VPCs, Security Groups)
+    
+*   Security (SSL/TLS, IAM, Firewalls)
+    
+*   Databases (SQL, NoSQL)
+    
 
-**Skills**
+**Professional Experience**
 
-- **Cloud Technologies:** AWS
-- **DevOps:** CI/CD (Jenkins, GitLab CI/CD, ArgoCD), Infrastructure as Code (Terraform), Containerization (Docker, Kubernetes), Configuration Management (Ansible)
-- **Monitoring & Logging:** Prometheus, Grafana
-- **Version Control:** Git, GitHub
-- **Scripting Languages:** Python, JavaScript, and Bash
-- **Networking Fundamentals:** DNS, Load Balancing, VPCs, Subnets, Security Groups
-- **Security:** SSL/TLS, Firewall, IAM
-- **Databases:** SQL, NoSQL
-- **Virtualization:** VMware, VirtualBox
-- **Data Analysis & Machine Learning:** Data Featuring, Data Modeling
-- **Artificial Intelligence (AI) & NLP:** chatbot development
-- **Web Development:** HTML, CSS, Python, JavaScript
+**DevOps Engineer | CapWay (Remote, Atlanta, US) | Jan 2023 – Present**
 
-**ProjectsServerless Recipe Generation**
+*   Optimized CI/CD pipelines for 40% faster deployments, 30% reduced failure rates through automation and best practices.
+    
+*   Provisioned and managed scalable AWS infrastructure using Terraform and Kubernetes, leading to 25% cost reduction.
+    
+*   Achieved 50% less downtime via improved incident response and troubleshooting.
+    
+*   Collaborated with development teams to ensure 97% security compliance in audits.
+    
 
-- Developed a serverless web application using AWS Amplify and Amazon Bedrock to generate personalized recipes.
-- Implemented a GraphQL API with AppSync and serverless functions with AWS Lambda for a seamless user experience.
+**Junior Django Developer | C2C Consultancy (Remote, UAE) | Jan 2020 – Dec 2022**
 
-**Multi-Tier Microservice Architecture**
+*   Developed and maintained Django-based web applications, ensuring high performance and scalability.
+    
+*   Implemented a new feature, "Personalized Product Recommendations," leading to a 15% boost in average order value.
+    
+*   Deployed applications to production environments using tools like Docker, Kubernetes, and AWS.
+    
+*   Utilized CI/CD pipelines to automate the deployment process, reducing deployment time from 2 hours to 20 minutes.
+    
+*   Successfully troubleshooted and resolved production issues, minimizing system downtime and customer impact.
+    
 
-- Deployed a scalable and resilient multi-tier microservice architecture on AWS EKS.
-- Implemented a robust CI/CD pipeline using Jenkins to automate the build, test, and deployment processes.
-- Reduced deployment time by 50% through the use of GitOps principles and Argo CD.
+**Data Scientist | Apex Financial (Remote, UK) | Jan 2017 – Dec 2019**
 
-**Scalable Counter Service**
+*   Developed predictive models that reduced loan default rates by 15% and improved fraud detection by 40%.
+    
+*   Provided data-driven insights that increased portfolio returns by 25%.
+    
+*   Created personalized marketing recommendations for a 30% boost in customer loyalty.
+    
 
-- Built a highly scalable counter service using Docker and Kubernetes.
-- Implemented a microservices architecture to handle increased load and ensure high availability.
-- Achieved a 20% increase in system performance by leveraging containerization and orchestration.
+**Digital Marketing Specialist & Data Analyst | Limelight Digital (Remote, UK) | Jan 2014 – Dec 2016**
 
-**Infrastructure as Code with Terraform**
-
-- Utilized Terraform to automate the provisioning of AWS infrastructure, including EKS clusters, VPCs, and security groups.
-
-**Linux Bash Scripting Automation**
-
-- Developed various Bash scripts to automate routine tasks such as file management, system administration, and data processing.
-
-**Cloud-Native Application Development**
-
-- Built a full-stack web application (Cruddur) on AWS, demonstrating proficiency in cloud-native development principles.
-- Utilized AWS services like EC2, S3, and RDS to host and deploy the application.
-- Implemented a CI/CD pipeline to automate the deployment process and ensure rapid delivery.
-
-**WORK EXPERIENCE**
-
-- DevOps and cloud Engineer Freelancer | June 2024 - Present
-- PPC Expert (Part-time) - [AutoRobo](https://www.autorobo.ca/home) Canada (Remote, Canada) | Feb 2024-Sep 2024
-- Marketing Manager - [C2C Consultancy](https://www.c2c-consultancy.com/) (Full-time, UAE) | Jan 2024 - Present
-- Digital Marketing Strategist - [DigiSay](https://digisay.com) (Egypt) | Jan 2019 - Oct 2023
-- Data Scientist (Part-time) - [Apex Financial](https://www.apexfinance.co.uk/) (Remote, UK) | Jan 2019 - Dec 2022
-- Digital Marketing Specialist (Remote) - [Limelight Digital](https://www.limelightdigitalagency.com/) (UK) | Jan 2016 - Dec 2018
-- Data Analyst & Content Creator Freelancer | Jan 2014 - Dec 2016
-
-**Courses & Certifications**
-
-- AWS Cloud Project Bootcamp (Sep 2023)
-- Professional Data Science Certificate at IBM (Jan 2020)
-- Supply Chain Management MicroMaster Certificate at MIT (Aug 2019)
-- Advanced Digital Marketing Strategies at Udacity (Jan 2015)
+*   Planned and executed marketing campaigns, resulting in a 40% increase in web traffic and 20% improvement in conversion rates.
+    
+*   Optimized website content, achieving a 35% increase in page views and a 25% reduction in bounce rates.
+    
+*   Created data analysis and visualization tools with Python (Pandas, Matplotlib) to improve marketing ROI by 30%.
+    
 
 **Education**
 
-Bachelor of Science in Production Mechanical Engineering, Helwan University May 2013
+**Bachelor of Science in Production Mechanical Engineering**Helwan University, May 2013
+
+**Certifications**
+
+*   AWS Cloud Project Bootcamp (Sep 2023)
+    
+*   IBM Professional Data Science Certificate (Jan 2020)
+    
+*   MIT Supply Chain Management MicroMaster Certificate (Aug 2019)
+    
+*   Udacity Advanced Digital Marketing Strategies (Jan 2015)
